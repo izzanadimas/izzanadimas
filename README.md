@@ -48,6 +48,7 @@
 <br>
 
 <!-- stats -->
+<h1 align="center">Github Stats 📊</h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=izzanadimas&show_icons=true&theme=graywhite" alt="Izzananda's GitHub Stats" />
 <br>
