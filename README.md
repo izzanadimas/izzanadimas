@@ -10,10 +10,12 @@
 <!-- tech -->
 <h1 align="center">Technology Stack🖥️</h1>
 <!-- language -->
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
 <!-- tools -->
 <h3 align="center">Tools</h3>
@@ -22,4 +24,9 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 </p>
-
+<!-- tools -->
+<h3 align="center">Frameworks</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+</p>
