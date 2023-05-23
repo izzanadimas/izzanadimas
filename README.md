@@ -9,8 +9,16 @@
 
 <!-- tech -->
 <h1 align="center">Technology Stack🖥️</h1>
-<h3 align="center">Programming Language</h3>
+<!-- language -->
+<h3 align="center">Programming Languages</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 </p>
+<!-- tools -->
+<h3 align="center">Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+</p>
+
