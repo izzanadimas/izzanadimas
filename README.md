@@ -36,3 +36,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
+
+<!-- socials -->
+<h1 align="center">Socials 🌐</h1>
