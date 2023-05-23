@@ -50,5 +50,7 @@
 
 <!-- stats -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=izzanadimas&show_icons=true&theme=dracula" alt="Izzananda's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=izzanadimas&show_icons=true&theme=graywhite" alt="Izzananda's GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzanadimas&show_icons=true&theme=graywhite" alt="Izzananda's Top Language" />
 </div>
