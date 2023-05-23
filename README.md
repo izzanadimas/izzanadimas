@@ -41,3 +41,8 @@
 
 <!-- socials -->
 <h1 align="center">Socials 🌐</h1>
+<p align="center">
+<a href="https://www.instagram.com/izzanadimas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Java" /></a>
+</p>
+
+
