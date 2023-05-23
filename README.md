@@ -8,4 +8,9 @@
 <br>
 
 <!-- tech -->
-<h1 align="center">Technology Stack⚙️</h1>
+<h1 align="center">Technology Stack🖥️</h1>
+3<h4 align="center">Programming Language</h>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+</p>
