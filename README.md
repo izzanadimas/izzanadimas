@@ -42,8 +42,7 @@
 <!-- socials -->
 <h1 align="center">Socials 🌐</h1>
 <p align="center">
-<a href="https://www.instagram.com/izzanadimas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/izzanadimas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="Linkedin" /></a>
+<a href="https://www.instagram.com/izzanadimas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/izzanadimas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="Linkedin" /></a>
 </p>
 
 <br>
