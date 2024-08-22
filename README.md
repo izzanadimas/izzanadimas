@@ -21,10 +21,11 @@
   <a href="mailto:izzanadimasfaza15@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <br>
+  <p>  </p>
   <a href="https://www.linkedin.com/in/izzanadimas/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  <p>  </p>
    <a href="https://www.instagram.com/izzanadimas/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
