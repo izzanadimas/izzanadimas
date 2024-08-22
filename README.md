@@ -27,8 +27,6 @@
   </a>
 </p>
 
-<br>
-
 <!-- stats -->
 <h1>Github Stats 📊</h1>
 <div align="center">
