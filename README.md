@@ -11,7 +11,7 @@
 <h1>Technology Stack 🖥️</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,mysql,git,figma" />
   </a>
 </p>
 
