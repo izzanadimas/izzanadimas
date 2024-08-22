@@ -18,7 +18,13 @@
 <!-- socials -->
 <h1>Socials 🌐</h1>
 <p>
-  <a href="https://www.instagram.com/izzanadimas/">
+  <a href="mailto:izzanadimasfaza15@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/izzanadimas/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+   <a href="https://www.instagram.com/izzanadimas/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
@@ -26,7 +32,7 @@
 <br>
 
 <!-- stats -->
-<h1 align="center">Github Stats 📊</h1>
+<h1>Github Stats 📊</h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=izzanadimas&show_icons=true&theme=graywhite" alt="Izzananda's GitHub Stats" />
 <br>
