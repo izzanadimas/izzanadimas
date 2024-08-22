@@ -2,8 +2,8 @@
 [![MasterHead](https://github.com/izzanadimas/izzanadimas/blob/main/BannerGithub.png)](https://github.com/izzanadimas)
 
 <!-- about -->
-<h1 align="center">About Me 📋</h1>
-<p align="center">I'm an ordinary 21 y'o Industrial Engineering student and learning coding!👨‍💻<br>I'm currently studying at <a href="https://uns.ac.id/id/">Sebelas Maret University</a>, Surakarta, Indonesia. Have interest on optimization and data analytics📈<br><br>email: <a href="mailto:izzanadimasfaza15@gmail.com">izzanadimasfaza15@gmail.com</a>
+<h1>About Me 📋</h1>
+<p>I'm an ordinary 21 y'o Industrial Engineering student and learning coding!👨‍💻<br>I'm currently studying at <a href="https://uns.ac.id/id/">Sebelas Maret University</a>, Surakarta, Indonesia. Have interest on optimization and data analytics📈<br><br>email: <a href="mailto:izzanadimasfaza15@gmail.com">izzanadimasfaza15@gmail.com</a>
 
 <br>
 
