@@ -21,6 +21,7 @@
   <a href="mailto:izzanadimasfaza15@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/izzanadimas/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
