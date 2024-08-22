@@ -18,8 +18,8 @@
 <!-- socials -->
 <h1>Socials 🌐</h1>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,mysql,git,figma"/>
+  <a href="https://www.instagram.com/izzanadimas/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
 
