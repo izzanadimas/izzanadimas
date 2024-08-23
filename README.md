@@ -3,7 +3,7 @@
 
 <!-- about -->
 <h1>About Me 📋</h1>
-<p>I'm an ordinary 21 y'o Industrial Engineering student and learning coding!👨‍💻<br>I'm currently studying at <a href="https://uns.ac.id/id/">Sebelas Maret University</a>, Surakarta, Indonesia. I have interest on optimization and data analytics📈
+<p>I'm an ordinary 21 y'o Industrial Engineering student and learn coding!👨‍💻<br>I'm currently studying at <a href="https://uns.ac.id/id/">Sebelas Maret University</a>, Surakarta, Indonesia. I have interest on optimization and data analytics📈
 
 <!-- tech -->
 <h1>Technology Stack 🖥️</h1>
