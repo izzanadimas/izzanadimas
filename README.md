@@ -29,7 +29,8 @@
 
 <!-- stats -->
 <h1>Github Stats 📊</h1>
-<div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=izzanadimas&show_icons=true&theme=graywhite" alt="Izzananda's GitHub Stats" />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzanadimas&layout=compact&theme=graywhite" alt="Izzananda's Top Language" />
 </div>
