@@ -29,6 +29,10 @@
   <a href="https://stackoverflow.com/users/22012732/">
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
+  &nbsp
+  <a href="https://dev.to/izzanadimas">
+    <img src="https://skillicons.dev/icons?i=dev"/>
+  </a>
 </p>
 
 <!-- stats -->
