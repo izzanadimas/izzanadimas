@@ -22,8 +22,12 @@
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   &nbsp
-   <a href="https://www.instagram.com/izzanadimas/">
+  <a href="https://www.instagram.com/izzanadimas/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  &nbsp
+  <a href="https://stackoverflow.com/users/22012732/">
+    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
 </p>
 
