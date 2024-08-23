@@ -8,7 +8,7 @@
 <!-- tech -->
 <h1>Technology Stack 🖥️</h1>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,mysql,git,figma" />
+  <img src="https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,mysql,git,md,vscode,figma,ps,windows" />
 </p>
 
 <!-- socials -->
